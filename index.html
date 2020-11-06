@@ -5,4 +5,5 @@
 <li style="color:red;">HTML</li>
 <li style="color:blue;">CSS</li>
 <li style="color:green;">JavaScript.</li>
+<li>nova linija</li>
 </ul>
